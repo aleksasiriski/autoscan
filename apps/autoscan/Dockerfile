@@ -2,8 +2,7 @@ FROM cgr.dev/chainguard/static:latest
 
 ENV AUTOSCAN_CONFIG="/config/config.yml" \
     AUTOSCAN_DATABASE="/config/autoscan.db" \
-    AUTOSCAN_LOG="/config/activity.log" \
-    AUTOSCAN_VERBOSITY="0"
+    AUTOSCAN_LOG="/config/activity.log"
 
 COPY autoscan .
 
