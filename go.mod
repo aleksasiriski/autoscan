@@ -16,7 +16,7 @@ require (
 	golang.org/x/sys v0.22.0 // indirect
 	golang.org/x/time v0.6.0
 	gopkg.in/yaml.v2 v2.4.0
-	modernc.org/sqlite v1.30.1
+	modernc.org/sqlite v1.31.1
 	modernc.org/strutil v1.2.0 // indirect
 )
 
@@ -31,7 +31,7 @@ require (
 	github.com/rs/xid v1.5.0 // indirect
 	golang.org/x/exp v0.0.0-20240707233637-46b078467d37 // indirect
 	modernc.org/gc/v3 v3.0.0-20240304020402-f0dba7c97c2b // indirect
-	modernc.org/libc v1.54.4 // indirect
+	modernc.org/libc v1.55.3 // indirect
 	modernc.org/mathutil v1.6.0 // indirect
 	modernc.org/memory v1.8.0 // indirect
 	modernc.org/token v1.1.0 // indirect
