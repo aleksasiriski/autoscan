@@ -16,7 +16,7 @@ require (
 	golang.org/x/sys v0.22.0 // indirect
 	golang.org/x/time v0.6.0
 	gopkg.in/yaml.v2 v2.4.0
-	modernc.org/sqlite v1.31.1
+	modernc.org/sqlite v1.32.0
 	modernc.org/strutil v1.2.0 // indirect
 )
 
