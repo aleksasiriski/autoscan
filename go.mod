@@ -3,7 +3,7 @@ module github.com/aleksasiriski/autoscan
 go 1.19
 
 require (
-	github.com/alecthomas/kong v0.9.0
+	github.com/alecthomas/kong v1.2.0
 	github.com/fsnotify/fsnotify v1.7.0
 	github.com/go-chi/chi/v5 v5.1.0
 	github.com/l3uddz/bernard v0.5.1
